@@ -138,9 +138,9 @@ Po wciśnięciu na plakat filmowy otwiera nam się okno w którym znajduje
 się dwa przyciski “Zamknij” który zamyka okno oraz “Komentarze”, który
 pozwala na skomentowanie filmu i obejrzenie komentarzy innych
 użytkowników. W oknie znajduje się również opis filmu który przeglądamy.
-      <p align="center">
-                       
-  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/7.png?raw=true" alt="Location"/>
+     
+   <p align="center">               
+ <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/7.png?raw=true" alt="Location"/>
     </p>
 Gwiazdki oznaczają ocenę od 1 do 5 i w zależności jak zaznaczymy i jaką
 ocenę wystawimy danemu filmowi, aplikacja po ponownym otwarciu okna
