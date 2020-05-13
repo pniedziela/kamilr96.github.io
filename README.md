@@ -81,7 +81,7 @@ Network: http://192.168.1.105:8080/
 
 ## Instrukcja obsługi Aplikacji ( YourMovieHub)
 <p align="center">
-  <img src="https://github.com/kamilr96/blob/master/location.PNG?raw=true" alt="1"/>
+  <img src="https://github.com/kamilr96/kamilr96.github.io/master/location.PNG?raw=true" alt="1"/>
 </p>
 
 
