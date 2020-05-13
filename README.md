@@ -101,8 +101,7 @@ e-mail @ w swoim wyrazie).
  
  </p>
  Jeśli hasło jest za krótkie wyskakuje odpowiednie powiadomienie.
- <p align="center">
-  
+<p align="center">
  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/3.png?raw=true" alt="Location"/>
   </p>
   Po poprawnej rejestracji aplikacja automatycznie zaloguje nas do serwisu.
@@ -113,6 +112,7 @@ w obu przypadkach zamyka okna z formularzami.
   <p align="center">
   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/4.png?raw=true" alt="Location"/>
   </p>
+  
   Użytkownikowi który poprawnie się zarejestrował i zalogował ukazuje się
 baza z filmami polecanymi w menu głównym.
    
