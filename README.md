@@ -100,7 +100,7 @@ e-mail @ w swoim wyrazie).
  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/2.png?raw=true" alt="Location"/>
  
  </p>
- 
+ Jeśli hasło jest za krótkie wyskakuje odpowiednie powiadomienie.
  <p align="center">
   
  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/3.png?raw=true" alt="Location"/>
@@ -111,7 +111,6 @@ rejestracji) wyświetli nam się pole z miejscem do wprowadzenia loginu i
 hasła, a następnie należy wcisnąć przycisk “Zaloguj”. Przycisk “Zamknij”
 w obu przypadkach zamyka okna z formularzami.
   <p align="center">
-  
   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/4.png?raw=true" alt="Location"/>
   </p>
   Użytkownikowi który poprawnie się zarejestrował i zalogował ukazuje się
@@ -119,7 +118,9 @@ baza z filmami polecanymi w menu głównym.
    
  <p align="center">
    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/5.png?raw=true" alt="Location"/>
-                                                                                                   
+  </p>
+                                                                                                     
+                                                                                                     
 ## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
