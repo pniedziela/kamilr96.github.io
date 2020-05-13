@@ -120,7 +120,53 @@ baza z filmami polecanymi w menu głównym.
    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/5.png?raw=true" alt="Location"/>
   </p>
                                                                                                      
-                                                                                                     
+  W menu głównym znajdują się cztery przyciski, które pobierają informacje z
+bazy(API) są to “Filmy”, “Seriale”, “Polecane”, “#Zostań w Domu”,
+odpowiednie Pole do wprowadzenia tytułu filmu którego poszukujemy, oraz
+przycisk “Szukaj” który aktywuje poszukiwania.
+W prawym górnym rogu znajduje się Ikona wraz z początkiem nazwy z
+maila oraz przycisk “Wyloguj się” który wylogowywuje nas z bazy i cofa
+do strony domowej.
+
+<p align="center">
+<img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/6.png?raw=true" alt="Location"/>
+ </p>
+     Przykładowo wprowadzamy frazę “Avengers” i Aplikacja wyszukuje nam
+wszystkie filmy i seriale powiązane z tą nazwą po wciśnięciu przycisku
+“Szukaj”
+Po wciśnięciu na plakat filmowy otwiera nam się okno w którym znajduje
+się dwa przyciski “Zamknij” który zamyka okno oraz “Komentarze”, który
+pozwala na skomentowanie filmu i obejrzenie komentarzy innych
+użytkowników. W oknie znajduje się również opis filmu który przeglądamy.
+      <p align="center">
+                       
+  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/7.png?raw=true" alt="Location"/>
+    </p>
+Gwiazdki oznaczają ocenę od 1 do 5 i w zależności jak zaznaczymy i jaką
+ocenę wystawimy danemu filmowi, aplikacja po ponownym otwarciu okna
+pokaże nam średnią ogólną z naszą już dodaną do bazy oceną
+  <p align="center">
+   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/8.png?raw=true" alt="Location"/>
+  </p>
+W polu komentarzy są dwa przyciski “Zamknij” który je zamyka oraz
+“Skomentuj” który pozwala na dodanie komentarza po ówczesnym
+wpisaniu go w odpowiednie do tego miejsce.
+ <p align="center">
+   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/9.png?raw=true" alt="Location"/>
+  </p>
+ Komentarz jest dodany i od razu wyświetla się użytkownikowi. Inne
+komentarze innych użytkowników są wyświetlane w liście również na żywo.
+   <p align="center">                                                                                                   
+    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/10.png?raw=true" alt="Location"/>                                    <p/>                                                        
+   Aplikacja jest również responsywna i odpowiednio się skaluje na
+urządzeniach mobilnych co jest pokazane na poniższych screenach
+ <p align="center">
+    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/11.png?raw=true" alt="Location"/>
+         </p>    
+   <p align="center"> 
+     <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
+     </p>
+   
 ## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
