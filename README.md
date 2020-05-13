@@ -13,6 +13,7 @@
 4. Instrukcja i instalacja aplikacji
 5. Instrukcja obsługi Aplikacji (YourMovieHub) i opis funkcjonalności
 aplikacji
+6. Linki do składowych projektu:
 
 
 ## 1. Krótki opis aplikacji
@@ -75,3 +76,16 @@ biblioteki
 6. Po pobraniu i instalacji wprowadzić kolejną komendę:
 npm run serve - gdy się skompiluje nacisnąć w konsoli na:
 Network: http://192.168.1.105:8080/
+
+
+## 6. Linki do składowych projektu:
+
+[Link do zgłoszenia projektu]
+
+[Link do wykonanej aplikacji]
+
+[Link do repozytorium projektu na GitHub]
+
+[Link do witryny internetowej projektu na GitHub]
+
+[Link do zarządzania projektem informatycznym na GitHub]
