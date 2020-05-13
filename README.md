@@ -23,8 +23,9 @@ aktualności kinowych czy propozycji do obejrzenia ( np. #zostań w domu -
 proponowane filmy na udany wieczór w formie losowania) oraz na
 zamieszczanie wpisów w postaci ocen i swoich odczuć na temat
 obejrzanych filmów.
-**Funkcjonalności które zostały zawarte to:
-- wyszukiwanie filmów w bazie danych**
+
+Funkcjonalności które zostały zawarte to:
+- wyszukiwanie filmów w bazie danych
 - przeglądanie ocen użytkowników i ich opinii
 - możliwość ocenienia filmu, dodania swojej opinii o nim
 - bezpośrednie przeglądanie najnowszych produkcji
