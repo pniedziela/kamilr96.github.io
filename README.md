@@ -82,12 +82,12 @@ Network: http://192.168.1.105:8080/
 
 ## Linki do składowych projektu:
 
-[Link do zgłoszenia projektu]
+[Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
 
-[Link do wykonanej aplikacji]
+[Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
 
-[Link do repozytorium projektu na GitHub]
+[Link do repozytorium projektu na GitHub](https://github.com/pniedziela/YourMovieHub)
 
-[Link do witryny internetowej projektu na GitHub]
+[Link do witryny internetowej projektu na GitHub](https://kamilr96.github.io/)
 
-[Link do zarządzania projektem informatycznym na GitHub]
+[Link do zarządzania projektem informatycznym na GitHub](https://github.com/users/kamilr96/projects/1)
