@@ -7,15 +7,15 @@
                         Przemysław Niedziela, WZISN2-1212, 217245
  
  ## Spis Treści
-1. Krótki opis Aplikacji………………………………………………………..3
-2. Nazwy użytych technologii i oprogramowania…………………..……..4
-3. Linki do oprogramowania które zostało wykorzystane………………...5
-4. Instrukcja i instalacja aplikacji…………………………………………....6
+1. Krótki opis Aplikacji
+2. Nazwy użytych technologii i oprogramowania
+3. Linki do oprogramowania które zostało wykorzystane
+4. Instrukcja i instalacja aplikacji
 5. Instrukcja obsługi Aplikacji (YourMovieHub) i opis funkcjonalności
-aplikacji……………………………………………………………………..7
+aplikacji
 
 
-### 1. Krótki opis aplikacji
+## 1. Krótki opis aplikacji
 Aplikacja pozwalająca na przeglądanie bazy filmów, przeglądanie
 aktualności kinowych czy propozycji do obejrzenia ( np. #zostań w domu -
 proponowane filmy na udany wieczór w formie losowania) oraz na
@@ -28,7 +28,7 @@ obejrzanych filmów.
 ● bezpośrednie przeglądanie najnowszych produkcji
 ● Rejestracja i logowanie do serwisu**
 
-#### 2. Nazwy użytych technologii i oprogramowania
+## 2. Nazwy użytych technologii i oprogramowania
 1. PhpStorm -to komercyjne, wieloplatformowe IDE dla PHP,
 zapewnia edytor PHP, HTML i JavaScript z analizą kodu w
 locie, zapobieganiem błędom i automatycznym refaktoryzacją
@@ -51,7 +51,7 @@ Model-view-viewmodel do budowania interfejsów użytkownika i
 aplikacji jednostronicowych. Vuetify jest szkieletem
 komponentów dla Vue.
 
-##### 3. Linki do oprogramowania które zostało wykorzystane
+## 3. Linki do oprogramowania które zostało wykorzystane
 
 
 1. https://www.jetbrains.com/phpstorm/
@@ -61,7 +61,7 @@ komponentów dla Vue.
 5. https://vuejs.org/
 6. https://vuetifyjs.com/en/
 
-###### 4. Instrukcja i instalacja aplikacji
+## 4. Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
 2. Należy pobrać, zainstalować i uruchomić PhpStorm/Visual
 Studio Code.
