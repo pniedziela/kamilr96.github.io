@@ -80,11 +80,46 @@ npm run serve - gdy się skompiluje nacisnąć w konsoli na:
 Network: http://192.168.1.105:8080/
 
 ## Instrukcja obsługi Aplikacji ( YourMovieHub)
+
+1. Po uruchomieniu npm run serve oraz wejsciu na link
+http://192.168.1.105:8080/ ukazuje się główne menu (strona
+domowa) aplikacji.
+
 <p align="center">
   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/1.png?raw=true" alt="Location"/>
 </p>
 
+Na stronie domowej znajdują się dwa przyciski z których korzysta się do
+poprawnego funkcjonowania aplikacji. Są to “Zarejestruj się” i “Zaloguj
+się”. Po wciśnięciu przycisku “Zarejestruj się” ukazuje nam się pole z
+formularzem (E-mail, Wybierz Hasło , Potwierdź Hasło), który należy
+wypełnić poprawnymi danymi (Hasło musi mieć co najmniej 6 znaków a
+e-mail @ w swoim wyrazie).
 
+<p align="center">
+ <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/2.png?raw=true" alt="Location"/>
+ 
+ </p>
+ 
+ <p align="center">
+  
+ <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/3.png?raw=true" alt="Location"/>
+  </p>
+  Po poprawnej rejestracji aplikacja automatycznie zaloguje nas do serwisu.
+Naciskając przycisk “Zaloguj się” (Podczas pierwszego logowania po
+rejestracji) wyświetli nam się pole z miejscem do wprowadzenia loginu i
+hasła, a następnie należy wcisnąć przycisk “Zaloguj”. Przycisk “Zamknij”
+w obu przypadkach zamyka okna z formularzami.
+  <p align="center">
+  
+  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/4.png?raw=true" alt="Location"/>
+  </p>
+  Użytkownikowi który poprawnie się zarejestrował i zalogował ukazuje się
+baza z filmami polecanymi w menu głównym.
+   
+ <p align="center">
+   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/5.png?raw=true" alt="Location"/>
+                                                                                                   
 ## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
