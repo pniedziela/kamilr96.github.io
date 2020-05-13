@@ -8,8 +8,7 @@
  
 
 # YourMovieHub
-
- ## Spis Treści
+ Spis Treści
 1. Krótki opis Aplikacji
 2. Nazwy użytych technologii i oprogramowania
 3. Linki do oprogramowania które zostało wykorzystane
@@ -25,11 +24,11 @@ proponowane filmy na udany wieczór w formie losowania) oraz na
 zamieszczanie wpisów w postaci ocen i swoich odczuć na temat
 obejrzanych filmów.
 **Funkcjonalności które zostały zawarte to:
-● wyszukiwanie filmów w bazie danych
-● przeglądanie ocen użytkowników i ich opinii
-● możliwość ocenienia filmu, dodania swojej opinii o nim
-● bezpośrednie przeglądanie najnowszych produkcji
-● Rejestracja i logowanie do serwisu**
+- wyszukiwanie filmów w bazie danych**
+- przeglądanie ocen użytkowników i ich opinii
+- możliwość ocenienia filmu, dodania swojej opinii o nim
+- bezpośrednie przeglądanie najnowszych produkcji
+- Rejestracja i logowanie do serwisu
 
 ## Nazwy użytych technologii i oprogramowania
 1. PhpStorm -to komercyjne, wieloplatformowe IDE dla PHP,
