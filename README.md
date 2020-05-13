@@ -28,7 +28,7 @@ obejrzanych filmów.
 ● bezpośrednie przeglądanie najnowszych produkcji
 ● Rejestracja i logowanie do serwisu**
 
-#### 2. Nazwy użytych technologii i oprogramowania**
+#### 2. Nazwy użytych technologii i oprogramowania
 1. PhpStorm -to komercyjne, wieloplatformowe IDE dla PHP,
 zapewnia edytor PHP, HTML i JavaScript z analizą kodu w
 locie, zapobieganiem błędom i automatycznym refaktoryzacją
@@ -54,12 +54,12 @@ komponentów dla Vue.
 ##### 3. Linki do oprogramowania które zostało wykorzystane
 
 
-https://www.jetbrains.com/phpstorm/
-https://code.visualstudio.com/
-https://github.com/
-https://firebase.google.com/
-https://vuejs.org/
-https://vuetifyjs.com/en/
+1. https://www.jetbrains.com/phpstorm/
+2. https://code.visualstudio.com/
+3. https://github.com/
+4. https://firebase.google.com/
+5. https://vuejs.org/
+6. https://vuetifyjs.com/en/
 
 ###### 4. Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
