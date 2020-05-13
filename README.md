@@ -79,6 +79,11 @@ biblioteki
 npm run serve - gdy się skompiluje nacisnąć w konsoli na:
 Network: http://192.168.1.105:8080/
 
+## Instrukcja obsługi Aplikacji ( YourMovieHub)
+<p align="center">
+  <img src="https://github.com/kamilr96/blob/master/location.PNG?raw=true" alt="1"/>
+</p>
+
 
 ## Linki do składowych projektu:
 
