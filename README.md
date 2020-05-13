@@ -1,4 +1,4 @@
- ## YourMovieHub
+  # YourMovieHub
                         
                         
                         Autorzy:
@@ -16,7 +16,7 @@ aplikacji
 6. Linki do składowych projektu:
 
 
-## 1. Krótki opis aplikacji
+## Krótki opis aplikacji
 Aplikacja pozwalająca na przeglądanie bazy filmów, przeglądanie
 aktualności kinowych czy propozycji do obejrzenia ( np. #zostań w domu -
 proponowane filmy na udany wieczór w formie losowania) oraz na
@@ -29,7 +29,7 @@ obejrzanych filmów.
 ● bezpośrednie przeglądanie najnowszych produkcji
 ● Rejestracja i logowanie do serwisu**
 
-## 2. Nazwy użytych technologii i oprogramowania
+## Nazwy użytych technologii i oprogramowania
 1. PhpStorm -to komercyjne, wieloplatformowe IDE dla PHP,
 zapewnia edytor PHP, HTML i JavaScript z analizą kodu w
 locie, zapobieganiem błędom i automatycznym refaktoryzacją
@@ -52,7 +52,7 @@ Model-view-viewmodel do budowania interfejsów użytkownika i
 aplikacji jednostronicowych. Vuetify jest szkieletem
 komponentów dla Vue.
 
-## 3. Linki do oprogramowania które zostało wykorzystane
+## Linki do oprogramowania które zostało wykorzystane
 
 
 1. https://www.jetbrains.com/phpstorm/
@@ -62,7 +62,7 @@ komponentów dla Vue.
 5. https://vuejs.org/
 6. https://vuetifyjs.com/en/
 
-## 4. Instrukcja i instalacja aplikacji
+## Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
 2. Należy pobrać, zainstalować i uruchomić PhpStorm/Visual
 Studio Code.
@@ -78,7 +78,7 @@ npm run serve - gdy się skompiluje nacisnąć w konsoli na:
 Network: http://192.168.1.105:8080/
 
 
-## 6. Linki do składowych projektu:
+## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu]
 
