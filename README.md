@@ -1,4 +1,4 @@
-  # YourMovieHub
+
                         
                         
                         Autorzy:
@@ -6,6 +6,9 @@
                         Kamil Rąpała, WZISN2-1212, 217320
                         Przemysław Niedziela, WZISN2-1212, 217245
  
+
+# YourMovieHub
+
  ## Spis Treści
 1. Krótki opis Aplikacji
 2. Nazwy użytych technologii i oprogramowania
@@ -14,7 +17,6 @@
 5. Instrukcja obsługi Aplikacji (YourMovieHub) i opis funkcjonalności
 aplikacji
 6. Linki do składowych projektu:
-
 
 ## Krótki opis aplikacji
 Aplikacja pozwalająca na przeglądanie bazy filmów, przeglądanie
